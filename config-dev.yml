@@ -11,5 +11,5 @@ spring:
       exclude: resources/** #devtool热加载工具
       
  # 配置环境
- env:
-   dev
+env:
+  dev
