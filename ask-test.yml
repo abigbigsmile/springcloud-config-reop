@@ -7,6 +7,11 @@ spring:
     restart:
       enabled: true
       exclude: resources/** #devtool热加载工具
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest    
       
  # 配置环境
 env:
