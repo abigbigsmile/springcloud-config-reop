@@ -10,9 +10,9 @@ spring:
       
  # 配置环境
 env:
-  test-come-on
+  test
   
 # 测试配置前缀
 nba:
-  name: james
+  name: wuyu
   champion: 123
