@@ -14,5 +14,5 @@ env:
   
 # 测试配置前缀
 nba:
-  name: Lebron James
-  champion: 6
+  name: D-Wade
+  champion: 3
