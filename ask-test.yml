@@ -14,5 +14,5 @@ env:
   
 # 测试配置前缀
 nba:
-  name: D-Wade
-  champion: 3
+  name: tomas
+  champion: 1
