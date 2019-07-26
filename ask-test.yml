@@ -11,3 +11,8 @@ spring:
  # 配置环境
 env:
   test-come-on
+  
+# 测试配置前缀
+nba:
+  name: lebron
+  champion: 3
