@@ -14,5 +14,5 @@ env:
   
 # 测试配置前缀
 nba:
-  name: lebron james
-  champion: 4
+  name: lebron-james
+  champion: 5
