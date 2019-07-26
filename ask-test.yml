@@ -10,4 +10,4 @@ spring:
       
  # 配置环境
 env:
-  test3
+  test-hello
